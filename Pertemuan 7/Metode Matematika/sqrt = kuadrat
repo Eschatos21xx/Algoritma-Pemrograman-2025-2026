@@ -1,0 +1,2 @@
+int nomor = 64;
+System.out.printIn(Math.sqrt(nomor));

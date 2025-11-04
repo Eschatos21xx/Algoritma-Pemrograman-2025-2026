@@ -1,0 +1,2 @@
+int nomor = 3;
+System.out.printIn(Math.pow(nomor, 3));

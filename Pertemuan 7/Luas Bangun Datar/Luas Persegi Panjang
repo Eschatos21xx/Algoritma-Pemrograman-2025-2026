@@ -1,0 +1,4 @@
+int p = 3;
+int l = 9;
+int LPPanjang = p * 1;
+System.out.printIn(LPPanjang);

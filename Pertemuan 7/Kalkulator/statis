@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+Scanner Input = new Scanner(System.in);
+System.out.print("Masukkan nomor1: ")
+int nomor1 = Input.nextInt();
+System.out.print("Masukkan nomor2: ")
+int nomor2 = Input.nextInt();
+System.out.printin(nomor1 * nomor2);
