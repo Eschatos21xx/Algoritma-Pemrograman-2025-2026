@@ -10,4 +10,9 @@ public class Integer {
         System.out.println("Nilai tipe data int = " + value_int);
         System.out.println("Nilai tipe data long = " + value_long);
  }
+
+    public static int parseInt(String nim) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'parseInt'");
+    }
 }
